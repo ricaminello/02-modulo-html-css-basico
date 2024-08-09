@@ -1,0 +1,10 @@
+span{
+    color: rgb(255, 0, 0);
+    background-color: cornflowerblue;
+
+    display: block;
+
+    width: 200px;
+    height: 200px;
+}
+

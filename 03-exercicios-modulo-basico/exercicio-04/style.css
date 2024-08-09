@@ -1,0 +1,18 @@
+table{
+    width: 300px;
+    height: 100px;
+}
+
+tr {
+    background-color: #424250;
+    color: white;
+    text-align: center;
+}
+
+.cabecalho-moda{
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+}

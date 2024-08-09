@@ -1,0 +1,31 @@
+    /*
+    forma colocando cada lateral separada.
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px; */
+
+    /*Forma colocando o mesmo valor no topo e nas laterias.
+    margin: 30px 15px; */
+
+    /*Forma colocando o mesmo valor em todos os lados.
+    margin: 30px; */
+
+h1 {
+    margin: 30px 15px;
+    padding: 20px 10px;
+    background-color: rgb(100, 107, 112);
+    border: solid 10px;
+    border-radius: 10px;
+    border-color: green blue yellow;
+}
+
+p {
+    margin: 30px 15px;
+    padding: 20px 10px;
+    background-color: aquamarine;
+    border: solid 10px;
+    border-color: rgb(42, 30, 210);
+    border-radius: 10px;
+    
+}

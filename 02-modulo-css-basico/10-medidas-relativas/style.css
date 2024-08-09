@@ -1,0 +1,23 @@
+html{
+    background-color: #ccc;
+}
+
+/* 1 em = 16 pixels */
+
+body{
+    background-color: beige;
+    width: 50%;
+    font-size: 3em;
+}
+
+.pai{
+    background-color: blueviolet;
+    width: 50%;
+    font-size: 1.5em;
+}
+
+.filha{
+    background-color: #16857b;
+    width: 50%;
+    font-size: 3em;
+}
