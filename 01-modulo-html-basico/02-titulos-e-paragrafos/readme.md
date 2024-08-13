@@ -1,5 +1,5 @@
 # HELLO WORLD! 
-Aprendendo a títulos e parágrafos no HTML.✔
+Aprendendo a criar títulos e parágrafos no HTML.✔
 
 ## Tecnologia utilizada
 - HTML
